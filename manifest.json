@@ -1,0 +1,21 @@
+{
+  "name": "Tab Clock",
+  "description": "A simple digital clock in your new tab. Always keep track of time. No distractions, higher productivity.",
+  "version": "0.1",
+
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "clock.html"
+  },
+  "permissions": [
+    "tabs"
+  ],
+
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+
+  "offline_enabled": true
+}
