@@ -1,6 +1,7 @@
 # Tab Clock
 ### Version 0.1 by Vinh Nguyen
 A simple digital clock in your new tab. Always keep track of time. No more distracted by tons of other stuffs, no procrastination, higher productivity.
+http://vinhnx.github.com/lab/new-tab-clock/
 
 ![Demo](http://cl.ly/Jbhi/newtabclock-default440.png)
 
