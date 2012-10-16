@@ -3,7 +3,7 @@
 A simple digital clock in your new tab. Always keep track of time. No more distracted by tons of other stuffs, no procrastination, higher productivity.
 http://vinhnx.github.com/lab/new-tab-clock/
 
-![Demo](preview.png)
+![Demo](https://raw.github.com/vinhnx/new-tab-clock/master/preview.png)
 
 + Plain and simple new tab (nothing but the clock).
 + Minimal design.
