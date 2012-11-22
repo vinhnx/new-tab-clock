@@ -11,7 +11,6 @@ http://vinhnx.github.com/lab/new-tab-clock/
 + Plain and simple new tab (nothing but the clock).
 + Minimal design.
 + Darkening gradient background to reduces eye strain.
-
 + Digital clock for you timing needs.
 + Always keep track of time, focus on your work.
 + No distraction, no procrastination, higher productivity.
