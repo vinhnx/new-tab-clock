@@ -1,7 +1,7 @@
 # Tab Clock
 ### Version 0.1 by Vinh Nguyen
 
-Hugely inpsired by/credit to: [Fabrice Weinberg](https://github.com/FWeinb)'s [awesome pen](http://codepen.io/FWeinb/pen/LmKvl) on CodePen.
+* This work is -- Hugely -- inpsired by/credit to: [Fabrice Weinberg](https://github.com/FWeinb)'s [awesome pen](http://codepen.io/FWeinb/pen/LmKvl) on CodePen.
 
 A simple digital clock in your new tab. Always keep track of time. No more distracted by tons of other stuffs, no procrastination, higher productivity.
 http://vinhnx.github.com/lab/new-tab-clock/
